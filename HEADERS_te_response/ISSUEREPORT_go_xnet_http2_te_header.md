@@ -56,3 +56,4 @@ In the HTTP/2 server header validation path, when `te` is encountered:
 - RFC 9113 §8.2.2 — TE constraints in HTTP/2
 - RFC 9113 §8.1.1 — Malformed message handling
 - #14214 — Original connection header validation (Go 1.7)
+- PoC Repository — https://github.com/APEvul-cyber/HTTP2_traefik_vul/tree/main/HEADERS_te_response

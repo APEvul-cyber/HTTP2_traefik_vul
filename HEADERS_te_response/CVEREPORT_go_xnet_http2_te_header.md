@@ -86,3 +86,4 @@ This is consistent with the existing logic that allows `te` as a special case wh
 - Go issue #14214 — `x/net/http2: validate connection headers more` (resolved Go 1.7, but `te` value check incomplete)
 - CVE-2025-4600 — Google Cloud LB TE.0 smuggling (same attack class)
 - CVE-2026-26365 — Akamai `Connection: Transfer-Encoding` smuggling
+- PoC Repository — https://github.com/APEvul-cyber/HTTP2_traefik_vul/tree/main/HEADERS_te_response
